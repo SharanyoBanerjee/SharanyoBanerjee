@@ -42,25 +42,9 @@ And of course, **loading more...** ▓▓▓▓▓▓▓▓▓▓▓░ 90%
 My goal is to create things that are both useful and beautiful. [​.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
-</div>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sharanyo-banerjee-68676a301/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
 </p>
 
