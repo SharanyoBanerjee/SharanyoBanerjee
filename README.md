@@ -24,7 +24,7 @@ Here's a list of technologies I've been working with recently:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,firebase,mongodb,nodejs,vscode,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,firebase,mongodb,nodejs,vscode,git,photoshop,wordpress,p5js,unity&perline=6" />
   </a>
 </p>
 
