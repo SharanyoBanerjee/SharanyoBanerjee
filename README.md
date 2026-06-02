@@ -1,228 +1,27 @@
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20C20E,100:0d1117&height=220&section=header&text=Sharanyo%20Banerjee&fontSize=50&fontColor=20C20E&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20Creative&descAlignY=55&descSize=18&descColor=ffffff"/>
+# 💫 About Me:
+interests:<br>  - "🧠 AI & Machine Learning"<br>  - "💻 Full-Stack Web Development"<br>  - "🦀 Systems Programming (Rust)"<br>  - "🎨 UI/UX Design & Video Editing"<br><br>achievements:<br>  - "🦈 GitHub Pull Shark"<br>  - "⭐ GitHub Pro Member"<br>  - "🇮🇳 Smart India Hackathon Participant"<br>  - "🏢 @Demon-Die Organization Member"<br><br>fun_fact: "I occasionally hide rickrolls in my code"
 
-<div align="center">
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%3E+Building+the+future%2C+one+commit+at+a+time...;%3E+AI+%7C+Web+Dev+%7C+Systems+%7C+Design" alt="Typing SVG" /></a>
 
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=SharanyoBanerjee&style=for-the-badge&color=20C20E&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/SharanyoBanerjee?tab=followers"><img src="https://img.shields.io/github/followers/SharanyoBanerjee?style=for-the-badge&color=20C20E&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/></a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharanyo Banerjee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sharanyobanerjee@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SharanyoBanerjee&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SharanyoBanerjee&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SharanyoBanerjee&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SharanyoBanerjee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ABOUT ME -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  &nbsp;About Me
-</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```yaml
-name: Sharanyo Banerjee
-location: India 🇮🇳
-education: B.Tech CSE (AI & ML) @ NST ADYPU
-current_focus: Building with AI & Full-Stack Development
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SharanyoBanerjee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-interests:
-  - "🧠 AI & Machine Learning"
-  - "💻 Full-Stack Web Development"
-  - "🦀 Systems Programming (Rust)"
-  - "🎨 UI/UX Design & Video Editing"
+---
+[![](https://komarev.com/ghpvc/?username=SharanyoBanerjee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-achievements:
-  - "🦈 GitHub Pull Shark"
-  - "⭐ GitHub Pro Member"
-  - "🇮🇳 Smart India Hackathon Participant"
-  - "🏢 @Demon-Die Organization Member"
-
-fun_fact: "I occasionally hide rickrolls in my code"
-```
-
-<br/>
-
-<!-- TECH STACK -->
-<h2>⚡ Tech Arsenal</h2>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-        <br/><b>Python</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
-        <br/><b>JavaScript</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
-        <br/><b>TypeScript</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/>
-        <br/><b>Rust</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-        <br/><b>React</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-        <br/><b>Node.js</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
-        <br/><b>Tailwind</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
-        <br/><b>Vite</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-        <br/><b>Firebase</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-        <br/><b>MongoDB</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-        <br/><b>Vercel</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-        <br/><b>Git</b>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyoBanerjee&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff&langs_count=8" height="160"/>
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-<h2>🏗️ Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/SharanyoBanerjee/Space-And-News-Command-Center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=Space-And-News-Command-Center&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SharanyoBanerjee/Azon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=Azon&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/SharanyoBanerjee/edna-biodiversity-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=edna-biodiversity-pipeline&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SharanyoBanerjee/Otaku_Dex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=Otaku_Dex&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/SharanyoBanerjee/SizzL_Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=SizzL_Ai&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SharanyoBanerjee/C69Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharanyoBanerjee&repo=C69Scanner&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
-  </a>
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharanyoBanerjee&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff&ring_color=20C20E" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharanyoBanerjee&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="180"/>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharanyoBanerjee&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff&area_color=20C20E&area=true&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharanyoBanerjee&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-</div>
-
-<br/>
-
-<!-- EXPERIENCE -->
-<h2>🚀 Experience</h2>
-
-<table>
-  <tr>
-    <td>📅 <b>Dec 2023 - Dec 2024</b></td>
-    <td>🎬 <b>Freelancer</b></td>
-    <td>Specialized in Video/Photo Editing and creating compelling Ads for clients.</td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>Personal Project</b></td>
-    <td>🛍️ <b>Front-End Dev</b> at <a href="https://kuroi.shop">kuroi.shop</a></td>
-    <td>Built and maintained the storefront for a custom T-shirt printing startup.</td>
-  </tr>
-</table>
-
-My goal is to create things that are both useful and beautiful. [.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<br/>
-
-<!-- ACHIEVEMENTS -->
-<h2>🏆 Achievements</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Pull_Shark-GitHub_Achievement-20C20E?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Pro-Member-20C20E?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SIH-Hackathon_Participant-20C20E?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <a href="https://github.com/Demon-Die"><img src="https://img.shields.io/badge/Demon--Die-Org_Member-20C20E?style=for-the-badge&labelColor=0d1117" /></a>
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-<h2>🔗 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sharanyo-banerjee-68676a301/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SharanyoBanerjee">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20C20E,100:0d1117&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
