@@ -211,22 +211,18 @@ DROPS:
 
 </details>
 
----
 
-## 06. PLAYER STATISTICS
+### 06. Contribution World
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SharanyoBanerjee&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=101810&title_color=55FF55&icon_color=55FF55&text_color=FFFFFF" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyoBanerjee&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=101810&title_color=55FF55&text_color=FFFFFF" alt="Most-used programming languages" />
+<p align="center">
+  <a href="https://github.com/nivinvysakh/gh-tree">
+    <img src="https://gh-tree.vercel.app/api/tree.gif?user=SharanyoBanerjee&theme=crimson&growth=expanded&farmer_mood=watering&campfire=true" alt="SharanyoBanerjee's Minecraft contribution tree" width="800" />
+  </a>
+</p>
 
-  <br /><br />
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=SharanyoBanerjee&theme=chartreuse-dark&hide_border=true&background=101810&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55" alt="Contribution streak" />
-
-  <br /><br />
-
-</div>
-
+<p align="center">
+  <sub>Powered by <a href="https://github.com/nivinvysakh/gh-tree">gh-tree</a></sub>
+</p>
 ---
 
 ## 07. ACHIEVEMENTS
